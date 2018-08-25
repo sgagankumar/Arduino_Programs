@@ -10,8 +10,8 @@
 
 
 char auth[]="c4a28467496c4f7d9ffb40cd9ccf76d3";
-char ssid[] = "vinay";
-char pass[] = "vinay1234";
+char ssid[] = "home";
+char pass[] = "12345678";
 #define DHTPIN 2
 #define DHTTYPE DHT11
 DHT dht(DHTPIN, DHTTYPE); //Defining the pin and the dhttype
